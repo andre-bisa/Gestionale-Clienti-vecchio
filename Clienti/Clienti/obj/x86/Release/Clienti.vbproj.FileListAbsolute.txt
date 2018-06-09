@@ -1,0 +1,131 @@
+C:\Users\Andrea\Desktop\Clienti\Clienti\obj\x86\Release\Clienti.Resources.resources
+C:\Users\Andrea\Desktop\Clienti\Clienti\obj\x86\Release\Clienti.vbproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\bin\Release\Clienti.exe.config
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\bin\Release\Clienti.pdb
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\bin\Release\Clienti.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\obj\x86\Release\Clienti.vbproj.ResolveComReference.cache
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\obj\x86\Release\Clienti.fClienti.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\obj\x86\Release\Clienti.fMain.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\obj\x86\Release\Clienti.Resources.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\obj\x86\Release\Clienti.vbproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\obj\x86\Release\Clienti.exe
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\obj\x86\Release\Clienti.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\obj\x86\Release\Clienti.pdb
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\obj\x86\Release\Clienti.vbprojResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\obj\x86\Release\Clienti.fZoom.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\bin\Release\Clienti.exe.manifest
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\bin\Release\Clienti.application
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\obj\x86\Release\Clienti.TrustInfo.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\obj\x86\Release\Clienti.exe.manifest
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\obj\x86\Release\Clienti.application
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\bin\Release\Clienti.exe
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\obj\x86\Release\Clienti.fOpzioni.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\obj\x86\Release\Clienti.fAccesso.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\obj\x86\Release\Clienti.fGestioneTelefoni.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\bin\Release\Resources\Add.ico
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\bin\Release\Resources\Cancel.ico
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\bin\Release\Resources\First.png
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\bin\Release\Resources\Last.png
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\bin\Release\Resources\Next.jpg
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\bin\Release\Resources\Previous.jpg
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\obj\x86\Release\Clienti.fGestioneDecodifiche.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\obj\x86\Release\Clienti.fGestioneMail.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\bin\Release\Resources\modifica.gif
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\bin\Release\Resources\Delete1.png
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\bin\Release\Resources\Save.png
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\obj\x86\Release\Interop.ADOX.dll
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\bin\Release\Resources\Save_PDF.png
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\bin\Release\Resources\Apri_PDF.png
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\bin\Release\Resources\Firefox panda roux.ico
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\obj\x86\Release\Clienti.fGestioneReferenti.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\bin\Release\Resources\tabella.png
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\bin\Release\Resources\Sort.png
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\obj\x86\Release\Clienti.fConfermaAzione.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\compiti informatica\In creazione\Clienti\Clienti\obj\x86\Release\Clienti.fTabellaClienti.resources
+C:\Users\Andrea\Desktop\Clienti\Clienti\bin\Release\Clienti.exe.config
+C:\Users\Andrea\Desktop\Clienti\Clienti\obj\x86\Release\Interop.ADOX.dll
+C:\Users\Andrea\Desktop\Clienti\Clienti\obj\x86\Release\Clienti.vbproj.ResolveComReference.cache
+C:\Users\Andrea\Desktop\Clienti\Clienti\obj\x86\Release\Clienti.exe
+C:\Users\Andrea\Desktop\Clienti\Clienti\obj\x86\Release\Clienti.xml
+C:\Users\Andrea\Desktop\Clienti\Clienti\obj\x86\Release\Clienti.pdb
+C:\Users\Andrea\Desktop\Clienti\Clienti\bin\Release\Resources\First.png
+C:\Users\Andrea\Desktop\Clienti\Clienti\bin\Release\Resources\Previous.jpg
+C:\Users\Andrea\Desktop\Clienti\Clienti\bin\Release\Resources\Next.jpg
+C:\Users\Andrea\Desktop\Clienti\Clienti\bin\Release\Resources\Last.png
+C:\Users\Andrea\Desktop\Clienti\Clienti\bin\Release\Resources\Cancel.ico
+C:\Users\Andrea\Desktop\Clienti\Clienti\bin\Release\Resources\Add.ico
+C:\Users\Andrea\Desktop\Clienti\Clienti\bin\Release\Resources\modifica.gif
+C:\Users\Andrea\Desktop\Clienti\Clienti\bin\Release\Resources\Delete1.png
+C:\Users\Andrea\Desktop\Clienti\Clienti\bin\Release\Resources\Save.png
+C:\Users\Andrea\Desktop\Clienti\Clienti\bin\Release\Resources\tabella.png
+C:\Users\Andrea\Desktop\Clienti\Clienti\bin\Release\Resources\Sort.png
+C:\Users\Andrea\Desktop\Clienti\Clienti\bin\Release\Resources\Save_PDF.png
+C:\Users\Andrea\Desktop\Clienti\Clienti\bin\Release\Resources\Apri_PDF.png
+C:\Users\Andrea\Desktop\Clienti\Clienti\bin\Release\Resources\Firefox panda roux.ico
+C:\Users\Andrea\Desktop\Clienti\Clienti\bin\Release\Clienti.exe.manifest
+C:\Users\Andrea\Desktop\Clienti\Clienti\bin\Release\Clienti.application
+C:\Users\Andrea\Desktop\Clienti\Clienti\bin\Release\Clienti.exe
+C:\Users\Andrea\Desktop\Clienti\Clienti\bin\Release\Clienti.pdb
+C:\Users\Andrea\Desktop\Clienti\Clienti\bin\Release\Clienti.xml
+C:\Users\Andrea\Desktop\Clienti\Clienti\obj\x86\Release\Clienti.vbprojResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\Clienti\Clienti\obj\x86\Release\Clienti.fConfermaAzione.resources
+C:\Users\Andrea\Desktop\Clienti\Clienti\obj\x86\Release\Clienti.fGestioneReferenti.resources
+C:\Users\Andrea\Desktop\Clienti\Clienti\obj\x86\Release\Clienti.fGestioneMail.resources
+C:\Users\Andrea\Desktop\Clienti\Clienti\obj\x86\Release\Clienti.fAccesso.resources
+C:\Users\Andrea\Desktop\Clienti\Clienti\obj\x86\Release\Clienti.fClienti.resources
+C:\Users\Andrea\Desktop\Clienti\Clienti\obj\x86\Release\Clienti.fGestioneDecodifiche.resources
+C:\Users\Andrea\Desktop\Clienti\Clienti\obj\x86\Release\Clienti.fGestioneTelefoni.resources
+C:\Users\Andrea\Desktop\Clienti\Clienti\obj\x86\Release\Clienti.fMain.resources
+C:\Users\Andrea\Desktop\Clienti\Clienti\obj\x86\Release\Clienti.fOpzioni.resources
+C:\Users\Andrea\Desktop\Clienti\Clienti\obj\x86\Release\Clienti.fTabellaClienti.resources
+C:\Users\Andrea\Desktop\Clienti\Clienti\obj\x86\Release\Clienti.fZoom.resources
+C:\Users\Andrea\Desktop\Clienti\Clienti\obj\x86\Release\Clienti.TrustInfo.xml
+C:\Users\Andrea\Desktop\Clienti\Clienti\obj\x86\Release\Clienti.exe.manifest
+C:\Users\Andrea\Desktop\Clienti\Clienti\obj\x86\Release\Clienti.application
+C:\Users\Andrea\Desktop\Clienti\Clienti\obj\x86\Release\Clienti.fRecuperoEliminati.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\bin\Release\Resources\First.png
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\bin\Release\Resources\Previous.jpg
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\bin\Release\Resources\Next.jpg
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\bin\Release\Resources\Last.png
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\bin\Release\Resources\Cancel.ico
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\bin\Release\Resources\Add.ico
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\bin\Release\Resources\modifica.gif
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\bin\Release\Resources\Delete1.png
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\bin\Release\Resources\Save.png
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\bin\Release\Resources\lente.png
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\bin\Release\Resources\tabella.png
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\bin\Release\Resources\Sort.png
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\bin\Release\Resources\Save_PDF.png
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\bin\Release\Resources\Apri_PDF.png
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\bin\Release\Resources\Firefox panda roux.ico
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\bin\Release\Clienti.exe.config
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\bin\Release\Clienti.exe.manifest
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\bin\Release\Clienti.application
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\bin\Release\Clienti.exe
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\bin\Release\Clienti.pdb
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\bin\Release\Clienti.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\obj\x86\Release\Clienti.vbprojResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\obj\x86\Release\Interop.ADOX.dll
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\obj\x86\Release\Clienti.vbproj.ResolveComReference.cache
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\obj\x86\Release\Clienti.fConfermaAzione.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\obj\x86\Release\Clienti.fGestioneReferenti.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\obj\x86\Release\Clienti.fGestioneMail.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\obj\x86\Release\Clienti.fAccesso.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\obj\x86\Release\Clienti.fClienti.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\obj\x86\Release\Clienti.fGestioneDecodifiche.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\obj\x86\Release\Clienti.fGestioneTelefoni.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\obj\x86\Release\Clienti.fMain.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\obj\x86\Release\Clienti.fOpzioni.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\obj\x86\Release\Clienti.fRecuperoEliminati.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\obj\x86\Release\Clienti.fTabellaClienti.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\obj\x86\Release\Clienti.fZoom.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\obj\x86\Release\Clienti.Resources.resources
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\obj\x86\Release\Clienti.vbproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\obj\x86\Release\Clienti.TrustInfo.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\obj\x86\Release\Clienti.exe.manifest
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\obj\x86\Release\Clienti.application
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\obj\x86\Release\Clienti.exe
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\obj\x86\Release\Clienti.xml
+C:\Users\Andrea\Desktop\Andrea\mie creazioni\Informatica\Clienti\Clienti\obj\x86\Release\Clienti.pdb
+C:\Users\Andrea\Desktop\Clienti\Clienti\bin\Release\Resources\lente.png
+C:\Users\Andrea\Desktop\Clienti\Clienti\obj\x86\Release\Clienti.fFatture.resources
